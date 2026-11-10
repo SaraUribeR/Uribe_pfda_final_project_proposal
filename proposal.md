@@ -10,7 +10,7 @@ I am a researcher at CG&ARP, a group focused on projects in computer graphics, a
 
 ## Features
 - Updating the Clock Visual
-	- Style the way the cloock looks in the terminal.
+	- Styling the way the clock looks in the terminal.
 - Making the code work on WIndows
 	- Currently the code only works for macOS, want it to be able to work on both, windows and macOS.
 - Parsing History Logs and Claculating Total PSD Time.
