@@ -11,7 +11,7 @@ I am a researcher at CG&ARP, a group focused on projects in computer graphics, a
 ## Features
 - Updating the Clock Visual
 	- Styling the way the clock looks in the terminal.
-- Making the code work on WIndows
+- Making the code work on Windows
 	- Currently the code only works for macOS, want it to be able to work on both, windows and macOS.
 - Parsing History Logs and Claculating Total PSD Time.
 	- I want the code to read a Photoshop history log, then adding a aspecific time to every action made. I also want it to add the toal amount of time spent working on the PSD file to the log file.
@@ -35,9 +35,9 @@ Minimal Viable Outcome:
   2. Try to make it work on windows
 
 - Week 2
-  1. Make an ExtendScript function to find, open and use teh data inside a History Log file.
+  1. Make an ExtendScript function to find, open and use the data inside a History Log file.
   2. Make a loop to iterate through every action being made without crashing
 
 - Week N (Final)
   1. Append a real time timestamp next to each history log action
-  2. Test that it works on windows and macOS.
+  2. Test that it works on windows and macOS
